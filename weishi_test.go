@@ -1,4 +1,4 @@
-package weishi_watermark_remover
+package weishi
 
 import "testing"
 
